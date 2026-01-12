@@ -48,7 +48,7 @@ function renderMonths() {
     rightText.className = 'right-text';
     rightText.innerHTML = `
       <h4 style="font-size:12pt;">${month}</h4>
-      <p>${activities[month].length} Activities</p>
+     
     `;
 
     item.appendChild(icon);
@@ -90,3 +90,4 @@ function renderMonths() {
     document.getElementById('modal').style.display = 'none';
 
   }
+
