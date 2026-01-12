@@ -1629,4 +1629,10 @@ responsive
   .phone-info h4 span i {
     margin-left: 0px;
   }
+
+}
+.holiday {
+  background-color: #ffdddd;
+  color: #a10000;
+  font-weight: bold;
 }
