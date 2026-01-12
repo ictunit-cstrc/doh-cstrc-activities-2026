@@ -71,7 +71,10 @@ function renderMonths() {
         month: "short",
         day: "numeric"
       });
-      body.innerHTML += `<tr>
+     
+  const isHoliday = act.ACTIVITY.toUpperCase().includes("HOLIDAY");
+
+  body.innerHTML += `<tr class="${isHoliday ? 'holiday' : ''}">
               <td>${formatted}</td>
               <td>${act.ACTIVITY}</td>
               <td>${act.VENUE}</td>
@@ -85,4 +88,5 @@ function renderMonths() {
 
   function closeModal() {
     document.getElementById('modal').style.display = 'none';
+
   }
