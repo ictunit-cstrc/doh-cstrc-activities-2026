@@ -72,7 +72,11 @@ function renderMonths() {
         day: "numeric"
       });
      
-  const isHoliday = act.ACTIVITY.toUpperCase().includes("HOLIDAY","NON-WORKING DAY");
+   const keywords = ["HOLIDAY", "NON-WORKING DAY"];
+
+   const isHoliday = keywords.some(keyword =>
+     act.ACTIVITY.toUpperCase().includes(keyword)
+   );
 
   body.innerHTML += `<tr class="${isHoliday ? 'holiday' : ''}">
               <td>${formatted}</td>
@@ -90,5 +94,6 @@ function renderMonths() {
     document.getElementById('modal').style.display = 'none';
 
   }
+
 
 
