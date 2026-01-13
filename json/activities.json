@@ -542,13 +542,6 @@
     "ATTENDEES": "OPS Clients and Family members"
   },
   {
-    "DATE": "2026-06-26",
-    "ACTIVITY": "IDADAIT Celebration: Advocacy & Mental Health Run",
-    "VENUE": "Naga City",
-    "PROPONENT": "Advocacy & Mental Health Committee",
-    "ATTENDEES": ""
-  },
-  {
     "DATE": "2026-06-04",
     "ACTIVITY": "Livelihood Training",
     "VENUE": "CSTRC",
@@ -651,6 +644,13 @@
     "ACTIVITY": "Aftercare Graduation and IOP Moving-up Ceremony",
     "VENUE": "TBA",
     "PROPONENT": "OPS",
+    "ATTENDEES": ""
+  },
+  {
+    "DATE": "2026-06-27",
+    "ACTIVITY": "IDADAIT Celebration: Advocacy & Mental Health Run",
+    "VENUE": "Naga City",
+    "PROPONENT": "Advocacy & Mental Health Committee",
     "ATTENDEES": ""
   },
   {
