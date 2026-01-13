@@ -75,6 +75,11 @@ function openModal(month) {
         month: "short",
         day: "numeric"
       });
+      
+      // Get the day of the week (short format)
+      const dayOfWeek = date.toLocaleDateString("en-US", {
+        weekday: "short"
+      });
      
       const keywords = ["HOLIDAY", "NON-WORKING DAY","SPECIAL WORKING DAY","NON WORKING DAY"];
       const isHoliday = keywords.some(keyword =>
@@ -91,6 +96,7 @@ function openModal(month) {
       
       body.innerHTML += `<tr class="${rowClass.trim()}">
                 <td>${formatted}</td>
+                <td>${dayOfWeek}</td>
                 <td>${act.ACTIVITY}</td>
                 <td>${act.VENUE}</td>
                 <td>${act.PROPONENT}</td>
@@ -104,6 +110,7 @@ function openModal(month) {
     document.getElementById('modal').style.display = 'none';
 
   }
+
 
 
 
