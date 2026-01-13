@@ -89,10 +89,14 @@ function openModal(month) {
       // Check if the activity date is in the past
       const isPast = date < today;
       
+      // Check if the activity is today
+      const isToday = date.getTime() === today.getTime();
+      
       // Build class list
       let rowClass = '';
       if (isHoliday) rowClass += 'holiday ';
-      if (isPast) rowClass += 'past-activity';
+      if (isPast) rowClass += 'past-activity ';
+      if (isToday) rowClass += 'today-activity';
       
       body.innerHTML += `<tr class="${rowClass.trim()}">
                 <td>${formatted}</td>
@@ -110,6 +114,7 @@ function openModal(month) {
     document.getElementById('modal').style.display = 'none';
 
   }
+
 
 
 
