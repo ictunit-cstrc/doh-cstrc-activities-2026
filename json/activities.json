@@ -15,13 +15,6 @@
   },
   {
     "DATE": "2026-01-13",
-    "ACTIVITY": "Time Management and Productivity Seminar",
-    "VENUE": "CSTRC",
-    "PROPONENT": "HRDU",
-    "ATTENDEES": "Selected employees and personnel"
-  },
-  {
-    "DATE": "2026-01-13",
     "ACTIVITY": "Submission of ISO Documents: QOPM , Q4 Monitoring Tool, Risk Register Monitoring",
     "VENUE": "",
     "PROPONENT": "",
@@ -183,6 +176,13 @@
     "VENUE": "",
     "PROPONENT": "",
     "ATTENDEES": ""
+  },
+  {
+    "DATE": "2026-03-03",
+    "ACTIVITY": "Time Management and Productivity Seminar",
+    "VENUE": "CSTRC",
+    "PROPONENT": "HRDU",
+    "ATTENDEES": "Selected employees and personnel"
   },
   {
     "DATE": "2026-03-05",
