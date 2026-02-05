@@ -228,7 +228,7 @@
   },
   {
     "DATE": "2026-03-13",
-    "ACTIVITY": "Submission ng PDS and SALN as of dec 31 2025",
+    "ACTIVITY": "Submission of PDS and SALN as of dec 31 2025",
     "VENUE": "",
     "PROPONENT": "HRDU",
     "ATTENDEES": ""
@@ -444,7 +444,7 @@
     "ATTENDEES": ""
   },
   {
-    "DATE": "2025-05-26",
+    "DATE": "2026-05-26",
     "ACTIVITY": "IPCC Committee Meeting",
     "VENUE": "CSTRC",
     "PROPONENT": "IPCC",
@@ -739,7 +739,7 @@
   },
   {
     "DATE": "2026-07-16",
-    "ACTIVITY": "Submission of PMT Documents:  IPCR January - June 2025 Accomplishments",
+    "ACTIVITY": "Submission of PMT Documents:  IPCR January - June 2026 Accomplishments",
     "VENUE": "",
     "PROPONENT": "",
     "ATTENDEES": ""
@@ -753,7 +753,7 @@
   },
   {
     "DATE": "2026-07-21",
-    "ACTIVITY": "Submission of PMT Documents:  DPCR / SPCR January - June 2025 Accomplishments, IDP & Coaching Monitoring Form",
+    "ACTIVITY": "Submission of PMT Documents:  DPCR / SPCR January - June 2026 Accomplishments, IDP & Coaching Monitoring Form",
     "VENUE": "",
     "PROPONENT": "",
     "ATTENDEES": ""
@@ -1102,7 +1102,7 @@
     "ATTENDEES": ""
   },
   {
-    "DATE": "2025-11-26",
+    "DATE": "2026-11-26",
     "ACTIVITY": "IPCC Committee Meeting",
     "VENUE": "CSTRC",
     "PROPONENT": "IPCC",
@@ -1214,13 +1214,6 @@
     "ATTENDEES": ""
   },
   {
-    "DATE": "2025-12-26",
-    "ACTIVITY": "Christmas Opening 2026",
-    "VENUE": "CSTRC",
-    "PROPONENT": "Nursing",
-    "ATTENDEES": ""
-  },
-  {
     "DATE": "2026-12-04",
     "ACTIVITY": "Family Day Celebration",
     "VENUE": "CSTRC",
@@ -1323,6 +1316,13 @@
     "ACTIVITY": "Christmas Day (Holiday)",
     "VENUE": "",
     "PROPONENT": "",
+    "ATTENDEES": ""
+  },
+  {
+    "DATE": "2026-12-26",
+    "ACTIVITY": "Christmas Opening 2026",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Nursing",
     "ATTENDEES": ""
   },
   {
