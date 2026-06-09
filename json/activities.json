@@ -640,6 +640,13 @@
     "ATTENDEES": "RID Div/Sec/selected staff"
   },
   {
+    "DATE": "2026-06-25",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
     "DATE": "2026-06-26",
     "ACTIVITY": "Aftercare Graduation and IOP Moving-up Ceremony",
     "VENUE": "TBA",
@@ -653,13 +660,7 @@
     "PROPONENT": "Advocacy & Mental Health Committee",
     "ATTENDEES": ""
   },
-  {
-    "DATE": "2026-06-25",
-    "ACTIVITY": "IOP Family Orientation & PE Session",
-    "VENUE": "CSTRC",
-    "PROPONENT": "OPS",
-    "ATTENDEES": "OPS Clients and Family members"
-  },
+  
   {
     "DATE": "2026-07-03",
     "ACTIVITY": "OAD Mid-Year Program Implementation Review",
