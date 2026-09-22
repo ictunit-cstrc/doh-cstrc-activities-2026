@@ -963,7 +963,7 @@
     "ATTENDEES": "ACP Staff & Clients"
   },
   {
-    "DATE": "2026-09-30",
+    "DATE": "2026-09-29",
     "ACTIVITY": "IOP Family Orientation & PE Session",
     "VENUE": "CSTRC",
     "PROPONENT": "OPS",
@@ -976,6 +976,7 @@
     "PROPONENT": "ISO Sec",
     "ATTENDEES": "All employees and personnel"
   },
+   
   {
     "DATE": "2026-10-05",
     "ACTIVITY": "Expanded Mancom",
@@ -996,6 +997,13 @@
     "VENUE": "CSTRC",
     "PROPONENT": "CHPO",
     "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "DATE": "2026-10-08",
+    "ACTIVITY": "Residential Program Evaluation",
+    "VENUE": "",
+    "PROPONENT": "",
+    "ATTENDEES": ""
   },
   {
     "DATE": "2026-10-14",
