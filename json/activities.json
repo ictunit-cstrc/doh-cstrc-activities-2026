@@ -1055,13 +1055,6 @@
     "ATTENDEES": "OPS Staff & Clients"
   },
   {
-    "DATE": "2026-10-21",
-    "ACTIVITY": "5S Audit",
-    "VENUE": "CSTRC",
-    "PROPONENT": "Workplace",
-    "ATTENDEES": "All employees and personnel"
-  },
-  {
     "DATE": "2026-10-23",
     "ACTIVITY": "ACS Group Dynamics Activity Q4",
     "VENUE": "CSTRC",
@@ -1151,6 +1144,20 @@
     "VENUE": "CSTRC",
     "PROPONENT": "CHPO",
     "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "DATE": "2026-11-11",
+    "ACTIVITY": "Workplace 5S Audit",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Workplace",
+    "ATTENDEES": "All employees and personnel"
+  },
+  {
+    "DATE": "2026-11-12",
+    "ACTIVITY": "Workplace 5S Audit",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Workplace",
+    "ATTENDEES": "All employees and personnel"
   },
   {
     "DATE": "2026-11-13",
