@@ -1083,25 +1083,25 @@
     "ATTENDEES": "OPS Clients and Family members"
   },
   {
-    "DATE": "2026-10-29",
+    "DATE": "2026-10-30",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "DATE": "2026-11-04",
     "ACTIVITY": "Performance and Budget Utilization Review (PBUR) Q3 2026",
     "VENUE": "TBA",
     "PROPONENT": "OCAO",
     "ATTENDEES": "Div / Sec / Com Heads"
   },
   {
-    "DATE": "2026-10-30",
+    "DATE": "2026-11-05",
     "ACTIVITY": "Management Review (MR) Q3 2026",
     "VENUE": "TBA",
     "PROPONENT": "ISO Sec",
     "ATTENDEES": "Div / Sec / Com Heads"
-  },
-  {
-    "DATE": "2026-10-30",
-    "ACTIVITY": "Narcotics Anonymous Meeting",
-    "VENUE": "CSTRC",
-    "PROPONENT": "ACS",
-    "ATTENDEES": "OAD Clients"
   },
   {
     "DATE": "2026-11-09",
